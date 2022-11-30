@@ -1,0 +1,124 @@
+{
+    "Chăm sóc tóc - da đầu":
+    {
+
+        "Dầu gội":
+            [
+                {
+                    "productCode": "TOC_DAUGOI01",
+                    "productName": "Dầu gội chống gàu Selsun sạch gàu, hết ngứa chai 100ml",
+                    "productPrice": "80.000đ",
+                    "productCategory": "Dược - Mỹ phẩm",
+                    "productSubcategogy1": "Chăm sóc Tóc và Da Đầu",
+                    "productSubcategogy2": "Dầu gội",
+                    "package": "Chai 100ml",
+                    "brand": "Rohto-Mentholatum (Nhật Bản)",
+                    "origin of production": "Việt Nam",
+                    "description":"https://www.nhathuocankhang.com/dau-goi/dau-goi-chong-gau-selsun-anti-dandruff-shampoo-100"
+                },
+                {
+                    "productCode": "TOC_DAUGOI02",
+                    "productName": "Dầu gội dược liệu Nguyên Xuân bồng bềnh hương hoa chai 200ml",
+                    "productPrice": "70.000đ",
+                    "productCategory": "Dược - Mỹ phẩm",
+                    "productSubcategogy1": "Chăm sóc Tóc và Da Đầu",
+                    "productSubcategogy2": "Dầu gội",
+                    "package": "Chai 200ml",
+                    "brand": "Hoa Linh (Việt Nam)",
+                    "origin of production": "Việt Nam",
+                    "description":"https://www.nhathuocankhang.com/dau-goi/dau-goi-duoc-lieu-nguyen-xuan-bong-benh-200ml"
+                }
+            ],
+        "Dầu xả":
+            [
+                {
+                    "productCode": "TOC_DAUXA01",
+                    "productName": "Dầu xả Selsun suôn khoẻ, mềm mượt dành cho tóc gàu chai 100ml",
+                    "productPrice": "43.200đ",
+                    "productCategory": "Dược - Mỹ phẩm",
+                    "productSubcategogy1": "Chăm sóc Tóc và Da Đầu",
+                    "productSubcategogy2": "Dầu xả",
+                    "package": "Tuýp 100ml",
+                    "brand": "Rohto-Mentholatum (Nhật Bản)",
+                    "origin of production": "Việt Nam",
+                    "description":"https://www.nhathuocankhang.com/dau-xa/dau-xa-selsun-danh-cho-toc-gau-100ml"
+                },
+                {
+                    "productCode": "TOC_DAUXA02",
+                    "productName": "Dầu xả Thái Dương 7 suôn mềm, óng ả tự nhiên chai 200ml",
+                    "productPrice": "115.000đ",
+                    "productCategory": "Dược - Mỹ phẩm",
+                    "productSubcategogy1": "Chăm sóc Tóc và Da Đầu",
+                    "productSubcategogy2": "Dầu xả",
+                    "package": "Chai 200ml",
+                    "brand": "Sao Thái Dương (Việt Nam)",
+                    "origin of production": "Việt Nam",
+                    "description":"https://www.nhathuocankhang.com/dau-xa/dau-xa-thai-duong-7-chai-200ml"
+                }
+            ],
+        "Dưỡng tóc":
+            [
+        
+                {
+                    "productCode": "TOC_DUONGTOC01",
+                    "productName": "Xịt dưỡng tóc Tsubaki giảm gãy rụng, phục hồi hư tổn chai 220ml",
+                    "productPrice": "179.000đ",
+                    "productCategory": "Dược - Mỹ phẩm",
+                    "productSubcategogy1": "Chăm sóc Tóc và Da Đầu",
+                    "productSubcategogy2": "Dưỡng tóc",
+                    "package": "Chai 220ml",
+                    "brand": "Tsubaki (Nhật Bản)",
+                    "origin of production": "Nhật Bản",
+                    "description":"https://www.nhathuocankhang.com/kem-u-duong-toc/xit-duong-toc-tsubaki-ho-tro-phuc-hoi-hu-ton-220ml"
+                },
+                {
+                    "productCode": "TOC_DUONGTOC02",
+                    "productName": "Serum Welhair ngăn rụng tóc, kích thích mọc tóc chai 100ml",
+                    "productPrice": "225.100đ",
+                    "productCategory": "Dược - Mỹ phẩm",
+                    "productSubcategogy1": "Chăm sóc Tóc và Da Đầu",
+                    "productSubcategogy2": "Dưỡng tóc",
+                    "package": "Chai 100ml",
+                    "brand": "Welhair",
+                    "origin of production": "Việt Nam",
+                    "description":"https://www.nhathuocankhang.com/kem-u-duong-toc/tinh-chat-ngan-rung-toc-welhair-chai-100ml"
+                },
+                {
+                    "productCode": "TOC_DUONGTOC03",
+                    "productName": "Serum NNO Hair Aplicapz dưỡng tóc bóng khỏe, giảm hư tổn hộp 15 viên",
+                    "productPrice": "207.000đ",
+                    "productCategory": "Dược - Mỹ phẩm",
+                    "productSubcategogy1": "Chăm sóc Tóc và Da Đầu",
+                    "productSubcategogy2": "Dưỡng tóc",
+                    "package": "Hộp 3 vỉ x 5 viên",
+                    "brand": "Mega We care (Thái Lan)",
+                    "origin of production": "Thái Lan",
+                    "description":"https://www.nhathuocankhang.com/kem-u-duong-toc/serum-nno-hair-aplicapz"
+                },
+                {
+                    "productCode": "TOC_DUONGTOC04",
+                    "productName": "Tinh dầu bưởi Lucky Star hỗ trợ mọc tóc, giảm gãy rụng chai 100ml",
+                    "productPrice": "70.000đ",
+                    "productCategory": "Dược - Mỹ phẩm",
+                    "productSubcategogy1": "Chăm sóc Tóc và Da Đầu",
+                    "productSubcategogy2": "Dưỡng tóc",
+                    "package": "Chai 100ml",
+                    "brand": "Lucky Star (Việt Nam)",
+                    "origin of production": "Việt Nam",
+                    "description":"https://www.nhathuocankhang.com/kem-u-duong-toc/duong-toc-tinh-dau-buoi-lucky-star-100mlz"
+                },
+                {
+                    "productCode": "TOC_DUONGTOC05",
+                    "productName": "Dầu dừa tinh khiết LuckyStar giúp tóc bóng mượt, giảm gàu chai 100ml",
+                    "productPrice": "28.000đ",
+                    "productCategory": "Dược - Mỹ phẩm",
+                    "productSubcategogy1": "Chăm sóc Tóc và Da Đầu",
+                    "productSubcategogy2": "Dưỡng tóc",
+                    "package": "Chai 100ml",
+                    "brand": "Lucky Star (Việt Nam)",
+                    "origin of production": "Việt Nam",
+                    "description":"https://www.nhathuocankhang.com/kem-u-duong-toc/tinh-dau-dua-lucky-star-100ml"
+                }
+            ]
+    }
+}
