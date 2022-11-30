@@ -12,14 +12,14 @@
       }
       .header p {
         text-align: center;
-        font-size: 10px;
+        font-size: 14px;
         text-transform: uppercase;
-        color: black;
+        color: white;
         background-color: #2d982a;
         margin-top: auto;
         margin-bottom: auto;
-        padding: auto
-      } 
+        padding: 10px;
+      }
 
       .topnav {
         position: relative;
@@ -30,9 +30,9 @@
         float: left;
         color: black;
         text-align: center;
-        padding:5px 16px;
+        padding: 5px 16px;
         text-decoration: none;
-        font-size: 12px;
+        font-size: 24px;
       }
 
       .topnav a:hover {
@@ -47,13 +47,40 @@
       .menu-center {
         float: none;
         position: absolute;
-        top: 50%;
+        /* top: 50%; */
+        margin-top: 19px;
         left: 50%;
         transform: translate(-50%, -50%);
       }
       .menu-right {
+        /*margin-top: 24px;*/
         float: right;
-      } 
+      }
+      input[type="text"] {
+        position: absolute;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        margin-top: 65px;
+        padding: 10px;
+        padding-left: 40px;
+        padding-right: 400px;
+        font-size: 20px;
+        border: 1px solid black;
+        border-radius: 20px;
+      }
+      .menu-bottom {
+        background-color: #2d982a;
+        text-align: center;
+        padding: 8px;
+      }
+      .menu-bottom a {
+        float: none;
+        color: white;
+        text-align: center;
+        padding: 16px;
+        text-decoration: none;
+        font-size: 24px;
+      }
     </style>
   </head>
   <body>
@@ -61,7 +88,7 @@
       <!--header advertisement -->
       <p>
         <b>giảm đến 50% khi mua sản phẩm thứ 2 tại website</b>
-        <br/>Từ ngày 01/12/2022 đến 31/12/2022
+        <br />Từ ngày 01/12/2022 đến 31/12/2022
       </p>
       <!-- header -->
       <div class="topnav">
@@ -75,7 +102,30 @@
           <a href="/"><b>1900-532-444</b></a>
           <a href="/"><b>Đăng nhập</b></a>
         </div>
+        <img
+          href="/"
+          src="../src/Danh mục nổi bật/LogoChuTB.png"
+          alt="LogoIcon"
+          style="
+            width: 250px;
+            height: auto;
+            margin-left: 50px;
+            margin-top: 15px;
+            margin-bottom: 15px;
+          "
+        />
+        <input type="text" placeholder="  Search.." />
       </div>
+
+      <div class="menu-bottom">
+        <a href="/">THUỐC</a>
+        <a href="/">THỰC PHẨM CHỨC NĂNG</a>
+        <a href="/">DƯỢC - MỸ PHẨM</a>
+        <a href="/">THIẾT BỊ Y TẾ</a>
+      </div>
+
+      <!-- body -->
+      <img src="../src/Banner.jpg" style="width: 1080px; height: auto" />
     </div>
   </body>
 </html>
