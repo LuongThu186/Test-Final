@@ -1,11 +1,11 @@
 #CSS External hớt nhe mng
         // Quy tắc đặt tên biến, hàm:
 Lower Camel Case: firstName, lastName
-        
+
         // Quy tắc đặt tên class:
 Upper Camel Case: SinhVien
 
-       // Quy tắc đặt tên BEM: 
+       // Quy tắc đặt tên BEM:
 block__element--modify
 
 Font - size
